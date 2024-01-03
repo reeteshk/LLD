@@ -31,5 +31,13 @@ This Repository will contains my learning and Notes About Low Level Design
     <td > The Car Rental System </td>
     <td> <a href="https://github.com/reeteshk/LLD/blob/main/The%20Car%20Rental%20System.pdf"> The Car Rental System </a></td>
   </tr>
+  <tr>
+    <td > Designing A chess Game</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20A%20Chess%20Game.pdf"> Designing A chess Game</a></td>
+  </tr>
+   <tr>
+    <td > Designing a Hotel Management System</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20A%20Hotel%20Management%20System.pdf"> Designing a Hotel Management System</a></td>
+  </tr>
 </table>
 
