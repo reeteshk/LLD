@@ -2,11 +2,6 @@
 This Repository will contains my learning and Notes About Low Level Design
 
 
-# DYNAMIC PROGRAMMING
-
-<h2>One Dimention DP</h2>
-
-
 <table>
   <tr>
     <td > Amazon Locker Service</td>
