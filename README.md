@@ -39,5 +39,13 @@ This Repository will contains my learning and Notes About Low Level Design
     <td > Designing a Hotel Management System</td>
     <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20A%20Hotel%20Management%20System.pdf"> Designing a Hotel Management System</a></td>
   </tr>
+  <tr>
+    <td > Amazon Online Shopping System</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Amazon%20Online%20Shopping%20System.pdf"> Amazon Online Shopping System</a></td>
+  </tr>
+   <tr>
+    <td > Designing Stack Overflow</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20Stack%20Overflow.pdf"> Designing Stack Overflow</a></td>
+  </tr>
 </table>
 
