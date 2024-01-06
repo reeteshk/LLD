@@ -51,10 +51,12 @@ This Repository will contains my learning and Notes About Low Level Design
     <td > Designing Airline Management System</td>
     <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20An%20Airline%20Management%20System.pdf>Designing Airline Management System </a></td>
   </tr>
+
    <tr>
     <td > Designing a Jigsaw Puzzle</td>
-    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20a%20Jigsaw%20Puzzle.pdf"> Designing a Jigsaw Puzzle </a></td>
+    <td> <a href=" https://github.com/reeteshk/LLD/blob/main/Designing%20a%20Jigsaw%20Puzzle.pdf"> Designing a Jigsaw Puzzle </a></td>
   </tr>
+   
    <tr>
     <td > An Online Brokerage System</td>
     <td> <a href="https://github.com/reeteshk/LLD/blob/main/An%20Online%20Brokerage%20System.pdf">An Online Brokerage System</a></td>
