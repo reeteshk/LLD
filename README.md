@@ -47,5 +47,25 @@ This Repository will contains my learning and Notes About Low Level Design
     <td > Designing Stack Overflow</td>
     <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20Stack%20Overflow.pdf"> Designing Stack Overflow</a></td>
   </tr>
+   <tr>
+    <td > Designing Airline Management System</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20An%20Airline%20Management%20System.pdf>Designing Airline Management System </a></td>
+  </tr>
+   <tr>
+    <td > Designing a Jigsaw Puzzle</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20a%20Jigsaw%20Puzzle.pdf"> Designing a Jigsaw Puzzle </a></td>
+  </tr>
+   <tr>
+    <td > An Online Brokerage System</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/An%20Online%20Brokerage%20System.pdf">An Online Brokerage System</a></td>
+  </tr>
+   <tr>
+    <td > Designing Facebook</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20Facebook.pdf"> Designing Facebook</a></td>
+  </tr>
+   <tr>
+    <td > Restaurant Management System</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Restaurant%20Management%20System%20.pdf"> Restaurant Management System</a></td>
+  </tr>
 </table>
 
