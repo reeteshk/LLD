@@ -69,5 +69,13 @@ This Repository will contains my learning and Notes About Low Level Design
     <td > Restaurant Management System</td>
     <td> <a href="https://github.com/reeteshk/LLD/blob/main/Restaurant%20Management%20System%20.pdf"> Restaurant Management System</a></td>
   </tr>
+  <tr>
+    <td > Designing Linkedin</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/Designing%20Linkedin.pdf"> Designing Linkedin</a></td>
+  </tr>
+   <tr>
+    <td > The Cricinfo System</td>
+    <td> <a href="https://github.com/reeteshk/LLD/blob/main/The%20Cricinfo%20System.pdf"> The Cricinfo System</a></td>
+  </tr>
 </table>
 
